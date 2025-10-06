@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  csc_picker:
+  csc_picker_flutter:
     path: ../
 
   # The following adds the Cupertino Icons font to your application.
